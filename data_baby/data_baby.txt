@@ -1,0 +1,8 @@
+Name of the baby: TestGirl
+Sex of the baby (boy/girl): girl
+Date of the born(YYYY MM DD): 2023 09 12
+
+### EXAMPLE ###
+#Name of the baby: Zelda
+#Sex of the baby (boy/girl): girl
+#Date of the born(YYYY MM DD): 2023 12 31
