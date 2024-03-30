@@ -7,13 +7,13 @@ You need:
 
 To obtain the weight evolution of a child you need to fill two files:
 1. data_baby/data_baby.txt
-   ### EXAMPLE ###
+   # EXAMPLE #
    #Name of the baby: Zelda
    #Sex of the baby (boy/girl): girl
    #Date of the born(YYYY MM DD): 2023 12 31
 
 2. data_weight/weight.csv
-   ### EXAMPLE ###
+   # EXAMPLE #
    # DD/MM/YYYY Weight(kg)
    #12/9/2023 3.335
    #04/10/2023 3.22
