@@ -7,17 +7,17 @@ You need:
 
 To obtain the weight evolution of a child you need to fill two files:
 1. data_baby/data_baby.txt
-   # EXAMPLE #
-   #Name of the baby: Zelda
-   #Sex of the baby (boy/girl): girl
-   #Date of the born(YYYY MM DD): 2023 12 31
+   EXAMPLE
+   Name of the baby: Zelda
+   Sex of the baby (boy/girl): girl
+   Date of the born(YYYY MM DD): 2023 12 31
 
 2. data_weight/weight.csv
-   # EXAMPLE #
-   # DD/MM/YYYY Weight(kg)
-   #12/9/2023 3.335
-   #04/10/2023 3.22
-   #08/10/2023 3.35
+   EXAMPLE
+   DD/MM/YYYY Weight(kg)
+   12/9/2023 3.335
+   04/10/2023 3.22
+   08/10/2023 3.35
 
 Then, the procedure is easy. Go to the root directory in the shell and type "sh weight.sh".
 
