@@ -28,5 +28,12 @@ This command produce two files. The first one "weight.png" shows the weight of t
   
 The percentile data comes from OMS (for furhter information, see references.txt file).  
 
+![alt text](https://github.com/jmorenogordo/PercentileWeight/blob/main/weight.png?raw=true "Weight")
+
+![alt text](https://github.com/jmorenogordo/PercentileWeight/blob/main/weight_percentile.png?raw=true "Weight percentiles")
+
+
+
+
 
 
